@@ -1,4 +1,4 @@
-# Hear-Disease-ML-prediction
+# Heart-Disease-ML-prediction
 This code trains Machine Learning algorithms to predict heart diseases of medical patients. Supervised Learning binary classification task. DataSet available at the root directory: `data.csv`.
 
 Language: Python
